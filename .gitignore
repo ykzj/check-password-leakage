@@ -1,7 +1,3 @@
-*.pyc
-*.pyo
-*.pyd
 .git/
-__pycache__
-.pytest_cache
+.gitignore
 .DS_Store
